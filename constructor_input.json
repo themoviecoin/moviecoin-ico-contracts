@@ -1,0 +1,12 @@
+{
+        "name" : "mc",
+        "symbol" : "mc",
+        "decimals" : "8",
+        "taxPercent" : "6",
+        "totalSupply" : "50000000000000",
+        "antiWhale" : true,
+        "whaleAmount" : "25000000000000",
+        "owner" : "0x74D4163f4d5B4D435BD44FBbE03Aad92daAF240f",
+        "taxAddresses" : ["0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2", "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2","0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2", "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"],
+        "taxPercentages" : ["10","20","30","40"]
+}
